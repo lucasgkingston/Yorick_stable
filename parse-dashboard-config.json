@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "serverURL": "https://yorick-lkingston.c9users.io/parse/1",
+      "appId": "APPLICATION_ID",
+      "masterKey": "MASTER_KEY",
+      "appName": "yorick"
+    }
+  ],
+  "users": [
+    {
+      "user": "tmp",
+      "pass": "tmp"
+    }
+  ]
+}

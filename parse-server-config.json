@@ -1,0 +1,11 @@
+{
+  "appId": "APPLICATION_ID",
+  "appName": "Yorick",
+  "masterKey": "MASTER_KEY",
+  "databaseURI": "mongodb://localhost:27017/anotherstore",
+  "mountPath": "/parse/1",
+  "cloud": "/home/ubuntu/workspace/cloud/main.js",
+  "verbose": true,
+  "publicServerURL": "https://yorick-lkingston.c9users.io/parse/1",
+  "serverURL": "http://0.0.0.0:8080/parse/1"
+}
